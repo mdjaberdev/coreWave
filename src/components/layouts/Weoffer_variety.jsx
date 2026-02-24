@@ -8,12 +8,12 @@ import Button from "../common/Button";
 
 const Weoffer_variety = () => {
   return (
-    <div className="bg-[#EEFFF9] rounded-tl-[350px] rounded-br-[350px] py-17.5 mb-[90px]">
+    <div className="bg-[#EEFFF9] rounded-tl-[350px] rounded-br-[350px] py-17.5 mb-22.5">
       <Container>
         <div className="flex items-center justify-between">
           <div className="">
-            <div className="flex gap-x-[40px]">
-              <div className="w-78 h-[322px] bg-white py-10.5 px-12 hover:bg-primary  group mt-50 rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)]">
+            <div className="flex gap-x-10">
+              <div className="w-78 h-80.5 bg-white py-10.5 px-12 hover:bg-primary  group mt-50 rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)]">
                 <Images
                   imgSrc={WeofferOne}
                   className={"group-hover:bg-white duration-500"}
@@ -26,15 +26,15 @@ const Weoffer_variety = () => {
                   appealing websites{" "}
                 </p>
               </div>
-              <div className="w-78 h-[322px] bg-white py-[42px] px-12 hover:bg-primary group rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)]">
+              <div className="w-78 h-80.5 bg-white py-10.5 px-12 hover:bg-primary group rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)]">
                 <Images
                   imgSrc={WeofferOne}
                   className={"group-hover:bg-white duration-200"}
                 />
                 <h4 className="text-[#1B1B1B] text-[20px] font-semibold py-3.5 group-hover:text-white duration-500">
-                  Web Development
+                  UI/UX Analysis
                 </h4>
-                <p className="text-[#7B7B7B] text-base w-[265px] leading-6 group-hover:text-white duration-500">
+                <p className="text-[#7B7B7B] text-base w-66.25 leading-6 group-hover:text-white duration-500">
                   Web development is the art of creating engaging and visually
                   appealing websites{" "}
                 </p>
@@ -47,7 +47,7 @@ const Weoffer_variety = () => {
                   className={"group-hover:bg-white duration-500"}
                 />
                 <h4 className="text-[#1B1B1B] text-[20px] font-semibold py-3.5 group-hover:text-white duration-500">
-                  Web Development
+                  SEO Marketing
                 </h4>
                 <p className="text-[#7B7B7B] text-base w-66.25 leading-6 group-hover:text-white duration-500">
                   Web development is the art of creating engaging and visually
@@ -60,7 +60,7 @@ const Weoffer_variety = () => {
                   className={"group-hover:bg-white duration-200"}
                 />
                 <h4 className="text-[#1B1B1B] text-[20px] font-semibold py-3.5 group-hover:text-white duration-500">
-                  Web Development
+                  Graphic Design
                 </h4>
                 <p className="text-[#7B7B7B] text-base w-66.25 leading-6 group-hover:text-white duration-500">
                   Web development is the art of creating engaging and visually
@@ -79,7 +79,7 @@ const Weoffer_variety = () => {
               looking for marketing assistance, website design, or IT support,
               we've got you covered
             </p>
-             <Button
+            <Button
               className={"!bg-[#DAF6EB] !text-primary"}
               btnTxt={"All Services"}
             />

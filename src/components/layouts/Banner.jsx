@@ -38,6 +38,7 @@ const Banner = () => {
           </div>
         </div>
       </Container>
+      
     </div>
   );
 };
