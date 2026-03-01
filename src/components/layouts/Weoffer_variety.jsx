@@ -54,7 +54,7 @@ const Weoffer_variety = () => {
                   appealing websites{" "}
                 </p>
               </div>
-              <div className="w-78 h-80.5 bg-white py-10.5 px-12 hover:bg-primary group rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)] -mt-45">
+              <div className="w-78 h-80.5 bg-white hover:bg-primary group rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)] -mt-45">
                 <Images
                   imgSrc={WeofferFour}
                   className={"group-hover:bg-white duration-200"}
