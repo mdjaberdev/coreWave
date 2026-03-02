@@ -5,6 +5,7 @@ import Weoffer_variety from '../layouts/Weoffer_variety'
 import Ourproject from '../layouts/Ourproject'
 import Top_Service from '../layouts/Top_Service'
 import Our_clientsaying from '../layouts/Our_clientsaying'
+import Free_trial from '../layouts/Free_trial'
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <Ourproject/>
       <Top_Service/>
       <Our_clientsaying/>
+      <Free_trial/>
     </div>
   )
 }

@@ -5,15 +5,17 @@
   --color-primary: #06C279
 }
 
-.swiper-pagination-bullet {
-  top: 100px !important;
-  background: #06C279 !important;
-  height: 10px !important;
-  width: 35px !important;
-  border-radius: 50px !important;
-}
 .swiper-pagination {
   bottom: 0px !important;
   position: relative !important;
   margin-top: 45px !important;
+}
+.swiper-pagination-bullet {
+  background: #D7D7D7 !important;
+  height: 10px !important;
+  width: 35px !important;
+  border-radius: 50px !important;
+}
+.swiper-pagination-bullet-active {
+  background: #06C279 !important;
 }
