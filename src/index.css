@@ -1,6 +1,19 @@
 @import "tailwindcss";
 
 @theme {
-  --font-lato:"Lato", sans-serif; 
-   --color-primary: #06C279
+  --font-lato: "Lato", sans-serif;
+  --color-primary: #06C279
+}
+
+.swiper-pagination-bullet {
+  top: 100px !important;
+  background: #06C279 !important;
+  height: 10px !important;
+  width: 35px !important;
+  border-radius: 50px !important;
+}
+.swiper-pagination {
+  bottom: 0px !important;
+  position: relative !important;
+  margin-top: 45px !important;
 }
