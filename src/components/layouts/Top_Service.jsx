@@ -27,7 +27,7 @@ const Top_Service = () => {
             </div>
             <div className="flex gap-x-10">
               <div className="space-y-10">
-                <div className="h-58.75 w-70 bg-white hover:bg-[#7AE0B9] group rounded-[15px] py-10 px-18 flex justify-center items-center shadow-[0_0_20px_2px_rgba(0,0,0,0.05)]">
+                <div className="h-58.75 w-70 bg-white hover:bg-[#7AE0B9] group rounded-[15px] py-10 px-18 flex justify-center items-center shadow-[0_0_20px_2px_rgba(0,0,0,0.05)] duration-500">
                   <div className="text-center">
                     <div className="">
                       <CiFaceSmile className="text-[90px] mx-auto group-hover:text-white" />
@@ -40,7 +40,7 @@ const Top_Service = () => {
                     </h5>
                   </div>
                 </div>
-                <div className="h-58.75 w-70 bg-white hover:bg-[#7AE0B9] group rounded-[15px] py-10 px-18 flex justify-center items-center shadow-[0_0_20px_2px_rgba(0,0,0,0.05)]">
+                <div className="h-58.75 w-70 bg-white hover:bg-[#7AE0B9] group rounded-[15px] py-10 px-18 flex justify-center items-center shadow-[0_0_20px_2px_rgba(0,0,0,0.05)] duration-500">
                   <div className="text-center">
                     <RiUserStarLine className="text-[90px] mx-auto group-hover:text-white" />
                     <p className=" group-hover:text-white text-xl font-semibold font-lato pt-2">
@@ -53,7 +53,7 @@ const Top_Service = () => {
                 </div>
               </div>
               <div className="space-y-10 mt-23.75">
-                <div className="h-58.75 w-70 bg-white hover:bg-[#7AE0B9] group rounded-[15px] py-10 px-18 flex justify-center items-center shadow-[0_0_20px_2px_rgba(0,0,0,0.05)]">
+                <div className="h-58.75 w-70 bg-white hover:bg-[#7AE0B9] group rounded-[15px] py-10 px-18 flex justify-center items-center shadow-[0_0_20px_2px_rgba(0,0,0,0.05)] duration-500">
                   <div className="text-center">
                     <IoBriefcaseOutline className="text-[90px] mx-auto group-hover:text-white" />
                     <p className=" group-hover:text-white text-xl font-semibold font-lato pt-2">
@@ -64,7 +64,7 @@ const Top_Service = () => {
                     </h5>
                   </div>
                 </div>
-                <div className="h-58.75 w-70 bg-white hover:bg-[#7AE0B9] group rounded-[15px] py-10 px-18 flex justify-center items-center shadow-[0_0_20px_2px_rgba(0,0,0,0.05)]">
+                <div className="h-58.75 w-70 bg-white hover:bg-[#7AE0B9] group rounded-[15px] py-10 px-18 flex justify-center items-center shadow-[0_0_20px_2px_rgba(0,0,0,0.05)] duration-500">
                   <div className="text-center">
                     <GiAchievement className="text-[90px] mx-auto group-hover:text-white" />
                     <p className=" group-hover:text-white text-xl font-semibold font-lato pt-2">

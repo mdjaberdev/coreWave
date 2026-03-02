@@ -13,7 +13,7 @@ const Weoffer_variety = () => {
         <div className="flex items-center justify-between">
           <div className="">
             <div className="flex gap-x-10">
-              <div className="w-78 h-80.5 bg-white py-10.5 px-12 hover:bg-primary  group mt-50 rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)]">
+              <div className="w-78 h-80.5 bg-white py-10.5 px-12 hover:bg-primary  group mt-50 rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)] duration-500">
                 <Images
                   imgSrc={WeofferOne}
                   className={"group-hover:bg-white duration-500"}
@@ -26,7 +26,7 @@ const Weoffer_variety = () => {
                   appealing websites{" "}
                 </p>
               </div>
-              <div className="w-78 h-80.5 bg-white py-10.5 px-12 hover:bg-primary group rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)]">
+              <div className="w-78 h-80.5 bg-white py-10.5 px-12 hover:bg-primary group rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)] duration-500">
                 <Images
                   imgSrc={WeofferOne}
                   className={"group-hover:bg-white duration-200"}
@@ -41,7 +41,7 @@ const Weoffer_variety = () => {
               </div>
             </div>
             <div className="flex gap-x-10 mt-5">
-              <div className="w-78 h-80.5 bg-white py-10.5 px-12 hover:bg-primary  group  rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)]">
+              <div className="w-78 h-80.5 bg-white py-10.5 px-12 hover:bg-primary  group  rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)] duration-500">
                 <Images
                   imgSrc={WeofferThree}
                   className={"group-hover:bg-white duration-500"}
@@ -54,7 +54,7 @@ const Weoffer_variety = () => {
                   appealing websites{" "}
                 </p>
               </div>
-              <div className="w-78 h-80.5 bg-white hover:bg-primary group rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)] -mt-45">
+              <div className="w-78 h-80.5 bg-white py-10.5 px-12 hover:bg-primary  group  rounded-[10px] shadow-[0_0_20px_2px_rgba(0,0,0,0.05)] duration-500 -mt-45">
                 <Images
                   imgSrc={WeofferFour}
                   className={"group-hover:bg-white duration-200"}
