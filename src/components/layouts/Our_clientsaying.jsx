@@ -10,6 +10,7 @@ import { ImQuotesLeft } from "react-icons/im";
 const Our_clientsaying = () => {
   return (
     <div className="mt-23.5 mb-25">
+      <h3 className="text-[45px] text-[#1B1B1B] font-semibold font-lato capitalize text-center pb-12">What our clients saying</h3>
       <Container>
         <div className="flex justify-between">
           {/* Client One  */}
